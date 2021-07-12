@@ -2,9 +2,9 @@
   "name": "burninstreets",
   "version": "0.0.1",
   "description": "Run with your car on the streets and burn the others with your speed",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "php -S localhost:8080"
   },
   "author": "Roberto Scarciello",
   "license": "ISC",
