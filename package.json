@@ -1,0 +1,28 @@
+{
+  "name": "burninstreets",
+  "version": "0.0.1",
+  "description": "A simple Phaser 3 game",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack --watch & live-server --port=8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htsoft/burninstreets.git"
+  },
+  "author": "Roberto Scarciello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/htsoft/burninstreets/issues"
+  },
+  "homepage": "https://github.com/htsoft/burninstreets#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "phaser": "^3.55.2",
+    "ts-loader": "^9.2.3",
+    "typescript": "^4.3.5",
+    "webpack": "^5.44.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
