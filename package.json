@@ -1,0 +1,19 @@
+{
+  "name": "burninstreets",
+  "version": "0.0.1",
+  "description": "Burnin'Streets game made with Phaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "php -S localhost:8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htsoft/burninstreets.git"
+  },
+  "author": "Roberto Scarciello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/htsoft/burninstreets/issues"
+  },
+  "homepage": "https://github.com/htsoft/burninstreets#readme"
+}
