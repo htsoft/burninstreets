@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/htsoft/burninstreets/issues"
   },
-  "homepage": "https://github.com/htsoft/burninstreets#readme"
+  "homepage": "https://github.com/htsoft/burninstreets#readme",
+  "devDependencies": {
+    "phaser": "^3.55.2"
+  }
 }
